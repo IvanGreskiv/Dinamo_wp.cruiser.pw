@@ -1,0 +1,13 @@
+.gp-gallery-picture-zoom {
+    position: absolute;
+    z-index: 100;
+    padding: 10px;
+    background: white;
+    box-shadow: 0 0 10px #999;
+}
+.gp-gallery-picture-hover {
+    box-shadow: 1px 1px 5px #333;
+}
+.gallery-box > div {
+	margin:0 !important;
+}
